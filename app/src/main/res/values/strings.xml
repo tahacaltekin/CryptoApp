@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">CryptoApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="crypto_name">Crypto Name</string>
+    <string name="crypto_symbol">Crypto Symbol</string>
+    <string name="crypto_price">Crypto Price</string>
 </resources>
