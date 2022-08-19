@@ -2,18 +2,18 @@
 
 I used https://coinmarketcap.com/ API for this Project
 
-In this project, you can see the names, prices and logos of cryptos.
+In this project, you can see the names, prices and logos of cryptos. </br></br>
 You can get detailed information about cryptos by going to the detail page. 
 
 <h1>Tools and Jetpack 🚀</h1>
-- MVVM 
-- Jetpack Navigation 
-- Retrofit 
-- LiveData 
-- Dependency Injection - Hilt 
-- Coroutines 
-- Data Binding 
-- View Binding 
+- MVVM </br>
+- Jetpack Navigation </br>
+- Retrofit </br>
+- LiveData </br>
+- Dependency Injection - Hilt </br>
+- Coroutines </br>
+- Data Binding </br>
+- View Binding </br>
 - Coil for Images 
 
 <h2>App Images 📷</h2>
