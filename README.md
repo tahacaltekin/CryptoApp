@@ -6,15 +6,15 @@ In this project, you can see the names, prices and logos of cryptos. </br></br>
 You can get detailed information about cryptos by going to the detail page. 
 
 <h1>Tools and Jetpack 🚀</h1>
-- MVVM
-- Jetpack Navigation
-- Retrofit
-- LiveData
-- Dependency Injection - Hilt
-- Coroutines
-- Data Binding
-- View Binding
-- Coil for Images
+- MVVM </br></br>
+- Jetpack Navigation </br></br>
+- Retrofit </br></br>
+- LiveData </br></br>
+- Dependency Injection - Hilt </br></br>
+- Coroutines </br></br> 
+- Data Binding </br></br>
+- View Binding </br></br>
+- Coil for Images </br></br>
 
 <h2>App Images 📷</h2>
 
