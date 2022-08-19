@@ -18,6 +18,6 @@ You can get detailed information about cryptos by going to the detail page.
 
 <h2>App Images 📷</h2>
 
-<img src = "https://github.com/tahacaltekin/CryptoApp/blob/master/Screenshot_1660888553.png" height = "500"> </br></br>
+<img src = "https://github.com/tahacaltekin/CryptoApp/blob/master/Screenshot_1660890131.png" height = "500"> </br></br>
 
 <img src = "https://github.com/tahacaltekin/CryptoApp/blob/master/Screenshot_1660888560.png" height = "500">
